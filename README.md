@@ -70,13 +70,15 @@ Ensure all required system dependencies and development headers are installed be
 
 compilation:
 
-* **Linux Distribution (Ubuntu/Debian PC):** ```bash
+* **Linux Distribution (Ubuntu/Debian PC):** *
+```bash
 
 sudo apt update && sudo apt install -y g++ libcurl4-openssl-dev libssl-dev libpcap-dev ffmpeg
 
 ```
 
-* **Termux (Android Non-Rooted Environment):** ```bash
+* **Termux (Android Non-Rooted Environment):** *
+```bash
 
 pkg update && pkg install -y clang libcurl-dev openssl-dev ffmpeg
 
