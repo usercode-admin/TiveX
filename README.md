@@ -130,6 +130,6 @@ Before execution, grant binary execution permissions: `chmod +x camradar`
 ```
 # IMG
 <p align="center">
-  <img src="đường-dẫn-đến-file-ảnh.png" alt="image" width="500">
+  <img src="orca-image--653549725.jpeg.jpeg" alt="image" width="500">
 </p>
 
